@@ -1,0 +1,3 @@
+FROM jdk:1.8
+ENV PROJECT_NAME RegistryCenterEureka
+ENV PROJECT_GIT 
