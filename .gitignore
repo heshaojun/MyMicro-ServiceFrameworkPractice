@@ -11,3 +11,5 @@ buildNumber.properties
 .mvn/wrapper/maven-wrapper.jar
 /.idea/
 
+SpringCloundFamily/docker/JDK/jdk-8u202-linux-x64.tar.gz
+*.gz
